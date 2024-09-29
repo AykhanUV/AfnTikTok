@@ -1,4 +1,4 @@
-# TikTokUV
+# AfnTikTok
 
 ## Note
 This is the main download page for TikTokUV
